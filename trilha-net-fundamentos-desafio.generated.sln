@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FALCUDADE e AULAS", "FALCUDADE e AULAS", "{75FA16A5-2824-473B-9202-29642F6D57CB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DIO", "FALCUDADE e AULAS\Aula\DIO.csproj", "{51ACB7B2-677E-453E-BD2F-F96182D26A5F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "trilha-net-fundamentos-desafio", "trilha-net-fundamentos-desafio", "{29CB26FF-D5E1-4CA0-A7C6-0A93CA4109EF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioFundamentos", "trilha-net-fundamentos-desafio\DesafioFundamentos\DesafioFundamentos.csproj", "{42D4FFAD-F189-4A3A-82F7-D8EE7F62F760}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51ACB7B2-677E-453E-BD2F-F96182D26A5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51ACB7B2-677E-453E-BD2F-F96182D26A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51ACB7B2-677E-453E-BD2F-F96182D26A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51ACB7B2-677E-453E-BD2F-F96182D26A5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42D4FFAD-F189-4A3A-82F7-D8EE7F62F760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42D4FFAD-F189-4A3A-82F7-D8EE7F62F760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42D4FFAD-F189-4A3A-82F7-D8EE7F62F760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42D4FFAD-F189-4A3A-82F7-D8EE7F62F760}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{51ACB7B2-677E-453E-BD2F-F96182D26A5F} = {75FA16A5-2824-473B-9202-29642F6D57CB}
+		{42D4FFAD-F189-4A3A-82F7-D8EE7F62F760} = {29CB26FF-D5E1-4CA0-A7C6-0A93CA4109EF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {849FF718-366A-4E43-994C-1979C6C36CF7}
+	EndGlobalSection
+EndGlobal
